@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtualizaçaoEstudandoArrays", "AtualizaçaoEstudandoArrays\AtualizaçaoEstudandoArrays.csproj", "{BC9F7CF9-63BD-41E7-8661-AAEF17E9C445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9F7CF9-63BD-41E7-8661-AAEF17E9C445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9F7CF9-63BD-41E7-8661-AAEF17E9C445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9F7CF9-63BD-41E7-8661-AAEF17E9C445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9F7CF9-63BD-41E7-8661-AAEF17E9C445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {115E7205-F531-4413-B7C5-BFA6B9EC744F}
+	EndGlobalSection
+EndGlobal
